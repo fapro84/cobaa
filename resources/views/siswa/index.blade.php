@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container">
-        <a class="btn btn-primary mb-3" href="/siswa/create">Tambah Data Siswa</a>
+        <a class="btn btn-primary mb-3" href="/siswa/create">Tambah Data Siswa cobaa</a>
         <table border="1" class="table" style="text-align: center">
             <tr>
                 <th>No</th>
